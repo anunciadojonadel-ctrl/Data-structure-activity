@@ -1,7 +1,0 @@
-
-
-a = input ("Enter your full name:")
-b = input ( "Enter your age:")
-c = input ( " Enter your height:")
-
-print (" I am" + a + "and I am "  +  str(b)  +  "years old "  +  "My height is "  +  str(c))
